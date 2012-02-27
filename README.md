@@ -23,3 +23,4 @@ The result is probably worse than one thin/unicorn on one dyno. And one dyno can
 
 * http://chris.chowie.net/2011/08/28/Sinatra-with-JRuby-on-Heroku/
 * https://github.com/Soliah/sinatra-jruby-heroku
+* https://github.com/tomasmuller/sinatra-jruby-heroku
