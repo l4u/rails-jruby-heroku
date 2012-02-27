@@ -3,6 +3,7 @@
 Warning: This is not for production use. 
 
 Tested with:
+
 * Rails 3.2.1
 * JRuby 1.6.7 (1.9 mode)
 * trinidad 
