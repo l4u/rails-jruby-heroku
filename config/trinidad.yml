@@ -1,0 +1,7 @@
+---
+  environment: production  # environment for rails applications
+  jruby_min_runtimes: 1 # min number of runtimes
+  jruby_max_runtimes: 1 # max number of runtimes
+  http:
+    maxThreads: 2000
+    connectionTimeout: 15000
